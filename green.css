@@ -1,0 +1,40 @@
+/* CSS file for GU4 index.html */
+/* body {text-align:center; padding:8px; background-image:url(background.jpg); background-repeat:repeat; } */
+/* body {text-align:center; padding:8px; } */
+body {text-align:center; padding:8px; background-image:url(background.jpg); background-repeat:no-repeat; background-size:cover; }
+
+
+#wrapper {width:100%; text-align:left; margin-left:auto; margin-right:auto;}
+
+#sidebar {padding: 8px; width:200px; float:left; color: black; }
+#sidebar ul {padding-top: 2px; }
+#sidebar li {padding:4px; list-style-type:none; margin-left: -2em;} 
+
+
+#rightcolumn {padding 8px; padding-top: 90px; width:250px; float:right; color: black; margin-right: 8px;}
+#rightcolumn ul {padding-top: 10px; }
+#rightcolumn li {margin-left: -10%; margin-top: -5%; padding:0px; list-style-type:none; }
+#rightcolumn a:hover, #rightcolumn a:active {border-style:inset; color:black; }
+
+#header {text-align:center; color:black; padding:8px; font-size:2em;font-weight:bold; }
+
+#article {color:black; padding:2em; margin-left:216px; margin-right: 270px;}
+#article a:hover, #article a:active {border-style:inset; color:black; }
+#article li {padding:2px; } 
+
+#footer {clear:both; border: none; color:black; padding:8px; }
+
+#navbar {padding-top:0.1em; }
+#navbar ul li {display:inline; line-height:220%; }
+#navbar a {padding:3px; color:white; background-color:gray; font-family:sans-serif; border-style:outset; text-decoration:none; }
+#navbar a:hover, 
+#navbar a:active {border-style:inset;color:black; }
+
+.floatright {float:right; margin:10px;}
+.floatleft {float:left; margin:10px;}
+
+/* img {border: 2px solid white; } */
+a:hover, a:active {border-style:inset; color:black; }
+
+
+td {border: 1px solid black;}
