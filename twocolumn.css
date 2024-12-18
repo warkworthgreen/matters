@@ -1,0 +1,31 @@
+/* CSS file for GUF core.html file */
+
+body {text-align:center; padding:8px; background-color:#e8d8b8; }
+
+#wrapper {background-color:#e8d8b8; width:94%; text-align:left; margin-left:auto; margin-right:auto;}
+
+#sidebar {padding: 8px; width:200px; float:left; margin-left: -2em;}
+#sidebar ul {margin-top: 14px; }
+#sidebar li {padding:4px; list-style-type:none; } 
+#sidebar a:hover, #sidebar a:active {color:black; }
+
+#header {text-align:center; color:black; padding:4px; font-size:2em; font-weight:bold; }
+
+#article {color:black; padding:2em; margin-left:216px;background-color:#eeddbb; padding-top:0.2em; }
+#footer {clear:both; border: none; color:black; padding:8px; }
+
+.floatright {float:right; margin:10px;}
+.floatleft {float:left; margin:10px;}
+
+.left {clear:right;}
+.right img {float:right;}
+.left1 img {float:left;}
+
+.left img {float:left;}
+
+img {border: 2px solid white; margin-left:1em;  margin-right:1em; margin-bottom:1em; }
+
+
+td {border: 1px solid black; padding: 4px; }
+
+caption {text-align:left; font-weight:bold; padding:8px;}
