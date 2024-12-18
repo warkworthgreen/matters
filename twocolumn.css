@@ -1,8 +1,9 @@
 /* CSS file for GUF core.html file */
+/* body {text-align:center; padding:8px; background-image:url(background.jpg); background-repeat:repeat; } */
+/* body {text-align:center; padding:8px; } */
+body {text-align:center; padding:8px; background-image:url(background.jpg); background-repeat:no-repeat; background-size:cover; }
 
-body {text-align:center; padding:8px; background-color:#e8d8b8; }
-
-#wrapper {background-color:#e8d8b8; width:94%; text-align:left; margin-left:auto; margin-right:auto;}
+#wrapper {width:100%; text-align:left; margin-left:auto; margin-right:auto;}
 
 #sidebar {padding: 8px; width:200px; float:left; margin-left: -2em;}
 #sidebar ul {margin-top: 14px; }
@@ -11,7 +12,7 @@ body {text-align:center; padding:8px; background-color:#e8d8b8; }
 
 #header {text-align:center; color:black; padding:4px; font-size:2em; font-weight:bold; }
 
-#article {color:black; padding:2em; margin-left:216px;background-color:#eeddbb; padding-top:0.2em; }
+#article {color:black; padding:2em; margin-left:230px; }
 #footer {clear:both; border: none; color:black; padding:8px; }
 
 .floatright {float:right; margin:10px;}
