@@ -2,7 +2,7 @@
 <html lang="en">
 
 <HEAD>
-<TITLE>Error 404 Alnwick Natural History Society</TITLE>
+<TITLE>Error 404 Warkworth Green</TITLE>
 <meta charset="utf-8">
 <META name="description" content="Environmental support in Warkworth, Northumberland">
 <META name="keywords" content="green, matters, flora, fauna, wildlife, animals, birds, plants, flowers, Warkworth, Northumberland, England, U.K.">
@@ -16,16 +16,7 @@
 <h1>Document Not Found</h1>
 </div>
 <div id="sidebar">
-<img src="eider.jpg" alt="eider" width="220">
-<ul>
-<li><a href="index.html">Home</a>
-<li><a href="indoor.html">Indoor Meetings</a>
-<li><a href="field.html">Field Trips</a>
-<li><a href="sightings.html">Sightings</a>
-<li><A HREF="committee.html">Committee</a>
-<li><a href="Constitution.pdf" target="_blank">Constitution (PDF)</a>
-<li><A HREF="links.html">Links</A>
-</ul>
+<img src="eider.png" alt="eider" width="220">
 </div>
 
 <div id="article">
@@ -33,13 +24,12 @@ The document you have been trying to obtain is unavailable.
 This might be caused by a mistyped url, a missing file or an error on my web page. Please contact
 me if you think it is a problem with one of my web pages.
 <p>
-Suggest you try <a href="http://adnhs.org.uk/index.html">ADNHS Home Page</a>
+Suggest you try <a href="https://warkworthgreen.github.io/matters">Warkworth Green Home Page</a>
 </div>
 
 <div id="footer">
-Last Updated 10th February, 2017. <br>
-<em>For any comments/corrections for this web site contact <a href="mailto:peter.burnham@gmail.com?subject=NFD">Peter 
-Burnham</a>.</em>
+Last Updated 19th December, 2024. <br>
+<em>For any comments/corrections for this web site contact peter.burnham@gmail.com .</em>
 </div>
 </div>
 
