@@ -11,7 +11,7 @@ body {text-align:center; padding:8px; background-image:url(background.jpg); back
 #sidebar li {padding:4px; list-style-type:none; margin-left: -2em;} 
 
 
-#rightcolumn {padding 8px; padding-top: 90px; width:250px; float:right; color: black; margin-right: 8px;}
+#rightcolumn {padding: 8px; padding-top: 90px; width:250px; float:right; color: black; margin-right: 8px;}
 #rightcolumn ul {padding-top: 10px; }
 #rightcolumn li {margin-left: -10%; margin-top: -5%; padding:0px; list-style-type:none; }
 #rightcolumn a:hover, #rightcolumn a:active {border-style:inset; color:black; }
